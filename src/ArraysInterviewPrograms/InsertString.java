@@ -15,5 +15,6 @@ public class InsertString {
 		System.out.println("Appium Automation");
 		System.out.println("Rest Api Automation");
 		
+		System.out.println("Manual testing ");
 	}
 }
