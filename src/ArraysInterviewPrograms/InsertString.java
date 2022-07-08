@@ -16,5 +16,6 @@ public class InsertString {
 		System.out.println("Rest Api Automation");
 		
 		System.out.println("Manual testing ");
+		System.out.println("Smoke testing ");
 	}
 }
