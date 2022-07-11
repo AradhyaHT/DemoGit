@@ -11,5 +11,11 @@ public class InsertString {
 		System.out.println("Project jira4");
 		System.out.println("Project jira5");
 		
+		System.out.println("Selenium Automation");
+		System.out.println("Appium Automation");
+		System.out.println("Rest Api Automation");
+		
+		System.out.println("Manual testing ");
+		System.out.println("Smoke testing ");
 	}
 }
