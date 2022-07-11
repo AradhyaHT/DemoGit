@@ -17,5 +17,9 @@ public class InsertString {
 		
 		System.out.println("Manual testing ");
 		System.out.println("Smoke testing ");
+		
+		System.out.println("Localization Testing");
+		
+		
 	}
 }
