@@ -20,6 +20,6 @@ public class InsertString {
 		
 		System.out.println("Localization Testing");
 		
-		
+		System.out.println(" Exploratory Testing ");
 	}
 }
